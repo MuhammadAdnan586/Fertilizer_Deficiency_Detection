@@ -1,0 +1,31 @@
+buildscript {
+    ext {
+        buildToolsVersion = "36.0.0"
+        minSdkVersion = 24
+        compileSdkVersion = 36
+        targetSdkVersion = 36
+        ndkVersion = "27.1.12297006" // ✅ Updated as per your error log
+        kotlinVersion = "2.1.20"
+    }
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath("com.android.tools.build:gradle")
+        classpath("com.facebook.react:react-native-gradle-plugin")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
+        classpath('com.google.gms:google-services:4.4.2') 
+    }
+}
+
+// 🟢 Sabse important addition: Taake react-native-tts ko repositories mil saken
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        
+    }
+}
+
+apply plugin: "com.facebook.react.rootproject"
