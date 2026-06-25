@@ -51,27 +51,27 @@
   <tr>
     <td align="center" width="50%">
       <b>🏠 Dashboard</b><br/><br/>
-      <img src="screenshots/dashboard.png" width="100%" alt="Dashboard"/>
+      <img src="WhatsApp Image 2026-06-25 at 3.57.05 PM.png" width="100%" alt="Dashboard"/>
     </td>
     <td align="center" width="50%">
       <b>📷 Image Upload & Detection</b><br/><br/>
-      <img src="screenshots/detection.png" width="100%" alt="Detection"/>
+      <img src="WhatsApp Image 2026-06-25 at 3.57.06 PM (2).png" width="100%" alt="Detection"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <b>🧪 Soil Data Analysis</b><br/><br/>
-      <img src="screenshots/soil_analysis.png" width="100%" alt="Soil Analysis"/>
+      <img src="WhatsApp Image 2026-06-25 at 3.57.06 PM (1).png" width="100%" alt="Soil Analysis"/>
     </td>
     <td align="center" width="50%">
       <b>🌿 Deficiency Results</b><br/><br/>
-      <img src="screenshots/results.png" width="100%" alt="Results"/>
+      <img src="WhatsApp Image 2026-06-25 at 3.57.06 PM.png" width="100%" alt="Results"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <b>💊 Fertilizer Recommendation Panel</b><br/><br/>
-      <img src="screenshots/recommendations.png" width="60%" alt="Recommendations"/>
+      <img src="WhatsApp Image 2026-06-25 at 3.57.07 PM.png" width="60%" alt="Recommendations"/>
     </td>
   </tr>
 </table>
